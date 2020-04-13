@@ -3,8 +3,6 @@
 .DS_Store
 */.DS_Store
 
-package-lock.json
-html_app/package-lock.json
 
 node_modules/*
 html_app/platforms/*
